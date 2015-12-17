@@ -1,0 +1,10 @@
+#!/bin/csh
+echo
+echo  This is a placeholder configure file until I put a proper one together
+echo
+echo Because you have chosen the TorusLight version, compilation should be straightforward
+echo
+echo Just run make
+echo
+
+#end
